@@ -117,13 +117,14 @@ pytest test_main.py
 ## Примеры работы
 
 ### Запуск скрипта
-![Пример запуска](./screenshots/usage.jpg)
+![Пример запуска](https://github.com/user-attachments/assets/10e6b646-71b0-446f-8724-917160bcebea)
 
 ### Пример отчета
-![Пример отчета](./screenshots/usage-2.jpg)
+![Пример отчета](https://github.com/user-attachments/assets/f4744c07-912a-45aa-aa55-41453385591f)
 
 ### Запуск тестов
-![Пример запуска](./screenshots/test-usage.jpg)
+![Пример запуска тестов](https://github.com/user-attachments/assets/7a1b4cd7-56c2-4bb7-bf7f-abe5ce08a2b0)
+
 
 ### Пример отчета теста
-![Пример отчета](./screenshots/test-usage-2.jpg)
+![Пример отчета тестов](https://github.com/user-attachments/assets/3bad05bb-8b42-4fe8-853e-88af234254f3)
